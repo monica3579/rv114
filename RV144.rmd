@@ -15,13 +15,16 @@ require(tigerstats)
 
 In the late 1980s in Thailand, there was a dramatic increase in the prevalence of infection with the human immunodeficiency virus type 1 (HIV-1) in sentinel surveillance cohorts.1-3 Initially, these groups consisted of injection-drug users and commercial sex workers; they were subsequently expanded to include persons in the general population. By 1995, the overall seroprevalence of HIV-1 reached a peak of 3.7% among conscripts in the Royal Thai Army and of 12.5% among conscripts from Northern Thailand.2,4,5 The Thai Ministry of Public Health responded with an effective HIV-prevention campaign, and the number of new HIV-1 infections per year decreased from an estimated 143,000 in 1990 to 14,000 in 2007.2,4,6-9 The persistence of new infection despite these measures led public health officials to conclude that an HIV vaccine, within the context of a broader HIV-prevention program, was needed for better control of the epidemic.
 
-
+In the data there are a total of 16402 people that they did the trial on. 
 
 ## Methods and data
 
 Study Design and Population
 This study was a community-based, randomized, multicenter, double-blind, placebo-controlled efficacy trial of the prime–boost combination of vaccines containing ALVAC-HIV (vCP1521) (Sanofi Pasteur) and AIDSVAX B/E (Global Solutions for Infectious Diseases). For details regarding the vaccines and placebo, see the Supplementary Appendix, available with the full text of this article at NEJM.org. The study was designed to evaluate two coprimary end points: the prevention of HIV-1 infection and the effect of vaccination on the early viral load after infection. The trial was conducted through facilities of the Thai Ministry of Public Health in Rayong and Chon Buri provinces. From September 2003 through December 2005, a total of 16,402 volunteers were enrolled.
 Thai men and women who were between the ages of 18 and 30 years and who were not infected with HIV were recruited from the community without regard to HIV risk (i.e., community risk). Written informed consent was obtained from all volunteers, who were required to pass a written test of understanding. Women were counseled to practice effective contraception until 3 months after the last vaccination; pregnant and breast-feeding women were excluded.
+
+In this trial, they used a bar graph for the graphical results, a precent chart for the numerical results, and a chi square chart for the inferential results. 
+
 
 ###Study Design and Population
 This study was a community-based, randomized, multicenter, double-blind, placebo-controlled efficacy trial of the prime–boost combination of vaccines containing ALVAC-HIV (vCP1521) (Sanofi Pasteur) and AIDSVAX B/E (Global Solutions for Infectious Diseases). For details regarding the vaccines and placebo, see the Supplementary Appendix, available with the full text of this article at NEJM.org. The study was designed to evaluate two coprimary end points: the prevention of HIV-1 infection and the effect of vaccination on the early viral load after infection. The trial was conducted through facilities of the Thai Ministry of Public Health in Rayong and Chon Buri provinces. From September 2003 through December 2005, a total of 16,402 volunteers were enrolled.
