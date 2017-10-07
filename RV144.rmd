@@ -49,6 +49,8 @@ rownames(results) <- c("none","aids")
 ## Results
 <!-- You are to add descriptive comments to explain to the reader what the plot is showing !-->
 
+the plot below is a bar graph based on the 16402 people that were involved in this test. the first side showes the expected outcome of the people that recieved the vacine and the placebo. the other side showes the true results. 40% of the people that got the vacine still were infected with hiv. 55% that recieved the placebo, got infected with hiv.  
+
 ### Graphical results
 <!--Display graphical evidence as to the effectiveness of the vaccine with explanations!-->
 ```{r}
