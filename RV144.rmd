@@ -57,6 +57,9 @@ the plot below is a bar graph based on the 16402 people that were involved in th
 barchartGC(results,type = "percent")
 ```
 
+This chart showes that the vacine is effective. 40% out of the 1640 people still got the hiv virus. it can be showed that 60% of the people were still uninfected. as for the placebo, 60% of the people still in fact got the hiv visur. 
+
+
 ### Numerical Results
 
 <!--Display numerical evidence as to the effectiveness of the vaccine with explanations !--> 
